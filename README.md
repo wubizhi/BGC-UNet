@@ -61,6 +61,10 @@ By leveraging only 40 years of simulated data for training, **BGC-UNet** replica
 - **Patch-Based Methodology:** Enhances model performance with dilated sampling.
 - **High-Speed Simulation:** Achieves up to 248x faster simulations compared to traditional CESM BGC-enabled runs.
 - **Extensible Framework:** Potential for future expansion to other biogeochemical variables beyond surface chlorophyll.
+  
+## Datasets
+
+the data post-processing scripts and associated resources can be found at \url{https://pan.baidu.com/s/12eivQECCHlB2JH22e8HAkw?pwd=a9rx} with the code: a9rx.
 
 ## Installation
 
