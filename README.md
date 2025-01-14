@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and data corresponding to our accepted manuscript titled “[Neural Emulator based on Physical fields for Accelerating the Simulation of Surface Chlorophyll in an Earth System Model](#)”, published in **Ocean Modeling**. The study presents **BGC-UNet**, a neural network emulator designed to predict ocean surface chlorophyll concentrations based on physical fields from the Community Earth System Model (CESM).
+This repository contains the code and data corresponding to our accepted manuscript titled “[Neural Emulator based on Physical fields for Accelerating the Simulation of Surface Chlorophyll in an Earth System Model](#)”, accepted in **Ocean Modeling**. The study presents **BGC-UNet**, a neural network emulator designed to predict ocean surface chlorophyll concentrations based on physical fields from the Community Earth System Model (CESM).
 
 Simulating the ocean biogeochemical module (BGC-enabled) in CESM is computationally expensive, often requiring significantly more resources than the physical climate component. **BGC-UNet** offers an alternative approach by efficiently generating biogeochemical data, thereby accelerating Earth system modeling.
 
