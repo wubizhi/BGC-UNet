@@ -40,7 +40,7 @@ By leveraging only 40 years of simulated data for training, **BGC-UNet** replica
 
 ### 1. Training and Validation Processing of BGC-UNet for Surface Chlorophyll
 
-![Model Workflow](./Fig-1-Arch.pdf)
+![Model Workflow](./Fig-1-Arch.png)
 
 *Figure 1: The training and validation processing of BGC-UNet for surface chlorophyll.  
 (a) **Model Pre-Training:** Training model on CESM-LE datasets to get the initial weights.  
@@ -49,7 +49,7 @@ By leveraging only 40 years of simulated data for training, **BGC-UNet** replica
 
 ### 2. Detailed Architecture of the BGC-UNet Model
 
-![Model Framework](./Fig-2-UNeXt.pdf)
+![Model Framework](./Fig-2-UNeXt.png)
 
 *Figure 2: Detailed architecture of the BGC-UNet model. BGC-UNet is based on the UNeXt architecture, which is an encoder-decoder framework with two main stages:  
 1) **Convolutional Stage:** Extracts spatial features using convolutional blocks.  
